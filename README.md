@@ -4,6 +4,8 @@ WEBSITE: https://ntt.d269gmnra3gv5s.amplifyapp.com/
 
 TWITTER: https://twitter.com/NFTReporterTool
 
+Testnet Link: https://testnet.ftmscan.com/address/0x6D199189248896293EC488684eDB667fd83770C8
+
 ## Purpose
 This is an app designed to help victims of NFT theft and phishing report their NFTs as stolen on Twitter and alert the NFT community.
 
